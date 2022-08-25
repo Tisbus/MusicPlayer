@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MusicPlayer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1939D7</item>
+        <item name="colorPrimaryVariant">#1939D7</item>
+        <item name="colorOnPrimary">#1939D7</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#1939D7</item>
+        <item name="colorSecondaryVariant">#1939D7</item>
+        <item name="colorOnSecondary">#1939D7</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
